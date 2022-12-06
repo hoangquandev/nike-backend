@@ -3,7 +3,7 @@ info:
   description: "Nike API"
   version: "1.0.0"
   title: "Nike API"
-host: "https://nike0403.herokuapp.com"
+host: "https://nike-backend.vercel.app"
 tags:
   # - name: "QuanLyDatVe"
   # externalDocs:
